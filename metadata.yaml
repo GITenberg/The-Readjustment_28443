@@ -1,0 +1,29 @@
+_repo: The-Readjustment_28443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irwin, Will
+    alias: Irwin, William Henry
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '26707'
+    url: http://www.gutenberg.org/2009/agents/26707
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Irwin
+description: ''
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+title: The Readjustment
+url: http://www.gutenberg.org/ebooks/28443
